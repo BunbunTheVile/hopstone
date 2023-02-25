@@ -25,6 +25,8 @@ __*Always keep in mind that this is a LEARNING project! This is to learn fronten
     - saving
         - import from json
         - save in database (needs account features)
+    - different layouts and themes
+        - customizable/extensible
 - dice tool
     - rolling
     - save roll configurations
