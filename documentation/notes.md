@@ -1,0 +1,74 @@
+__*Always keep in mind that this is a LEARNING project! This is to learn frontend development and become a better UI/UX designer.*__
+
+# Loose Notes
+- should use vanilly HTML, CSS and JS for learning
+- should be an SPA (learn how to do this without frameworks)
+- simple Python or Node backend with Postgres once this becomes necessary
+
+# Aesthetics and Theme
+- "Hopstone Tavern", a place for bunny adventurers
+- little bunny personas that represent different types of D&D players/DMs
+- soft, warm, cozy, cute, pleasent
+- orange-y and pastel palette
+
+# Possible Tools and Features
+- character sheet
+    - guided character generation
+    - randomized character generation
+    - statblock view
+        - full
+        - simplified
+    - export
+        - as pdf
+        - as img
+        - as json
+    - saving
+        - import from json
+        - save in database (needs account features)
+- dice tool
+    - rolling
+    - save roll configurations
+    - statistics and probability
+- battle simulator
+    - save custom battle presets
+    - challenges
+    - vs AI
+    - with other players
+    - uses map maker assets
+- battle map maker
+    - simple drawing tools
+    - image imports
+    - use premade assets
+    - create premade assets
+- bestiary and statblocks
+    - premade based on rulebooks
+    - your own library
+- D&D tutorials for newcomers
+    - guided rule tutorials
+    - can be linked to battle simulator
+    - link to rule library
+- rule library
+    - collection of rules from books
+    - lookup specifics
+    - categorized by theme
+    - learning paths (linked to tutorials)
+- campaign organization
+    - player groups
+    - shared assets
+        - images
+        - characters
+        - maps
+        - statblocks
+    - notetaking features
+        - for campaign planning
+        - for shared player campaign notes
+    - game screen
+        - with current map
+        - battle functions
+        - shared music (link to youtube!)
+        - in-universe games (cards, dice, etc.)
+        - should be extensible
+- PWA features for organizing content offline
+- forum or chat features
+- discord connection
+    - a bot maybe that is linked to user accounts/campaigns
